@@ -2,6 +2,27 @@
 
 <p>Hello there!</p>
 
+
+## Open source projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/orbulant/blinds-theme"><b>blinds-theme</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+  </tr>
+</table>
+
 ## I code with
 <p>
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
