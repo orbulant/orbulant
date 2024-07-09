@@ -1,3 +1,7 @@
+## Intro
+
+<p>Hello there!</p>
+
 ## I code with
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
