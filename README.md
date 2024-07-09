@@ -12,6 +12,7 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>⬇️ Downloads</b></td>
     </tr>
   </thead>
   <tr>
@@ -20,6 +21,7 @@
     <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme"/></td>
   </tr>
 </table>
 
