@@ -34,11 +34,11 @@
 ## I code with
 <p>
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img alt="Astro.js" src="https://img.shields.io/badge/-Astro.js-FF5A03?style=flat&logo=astro&logoColor=white" />
   <img alt="Gatsby.js" src="https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
