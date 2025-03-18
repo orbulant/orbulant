@@ -35,7 +35,7 @@
     <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td>-/td>
+    <td>-</td>
   </tr>
 </table>
 
