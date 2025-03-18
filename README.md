@@ -63,4 +63,4 @@
 </p>
 
 ## Stats
-![Tan Ka-Shing's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbulant&show_icons=true&theme=tokyonight)
+![Tan Ka-Shing's GitHub stats](https://github-readme-stats-shing-team.vercel.app/api?username=orbulant&show_icons=true&theme=tokyonight)
