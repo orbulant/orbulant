@@ -13,7 +13,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td width: 300px;><b>🎁 Projects</b></td>
+      <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
