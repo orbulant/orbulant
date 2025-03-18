@@ -10,6 +10,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>📖 Description</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -19,6 +20,7 @@
   </thead>
   <tr>
     <td><a href="https://github.com/orbulant/blinds-theme"><b>blinds-theme</b></a></td>
+    <td>A red-green colourblind theme made for VSCode.</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
@@ -26,7 +28,8 @@
     <td><img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/orbulant/stock-screener"><b>Stock Screener Golang REST API</b></a></td>
+    <td><a href="https://github.com/orbulant/stock-screener"><b>Stock Screener</b></a></td>
+    <td>A REST API written in Go that processes data from the NYSE complete with screening support.</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
