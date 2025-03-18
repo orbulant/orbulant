@@ -1,7 +1,3 @@
-## Intro
-
-<p>HEEELLLLOOOOOOOOOOO!</p>
-
 ## Contact me
 <p>
   <a href="https://github.com/orbulant" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
