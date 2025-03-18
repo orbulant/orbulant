@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-## I code with
+## My proficiencies:
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
