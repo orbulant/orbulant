@@ -21,19 +21,19 @@
   <tr>
     <td><a href="https://github.com/orbulant/blinds-theme"><b>blinds-theme</b></a></td>
     <td>A red-green colourblind theme made for VSCode.</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme"/></td>
+    <td><img alt="Blinds Stars" src="https://img.shields.io/github/stars/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Blinds Forks" src="https://img.shields.io/github/forks/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Blinds Issues" src="https://img.shields.io/github/issues/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Blinds Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/blinds-theme?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Blinds Downloads" src="https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/orbulant/stock-screener"><b>Stock Screener</b></a></td>
     <td>A REST API written in Go that processes data from the NYSE complete with screening support.</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Stock Screener Stars" src="https://img.shields.io/github/stars/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Stock Screener Forks" src="https://img.shields.io/github/forks/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Stock Screener Issues" src="https://img.shields.io/github/issues/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Stock Screener Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td>-</td>
   </tr>
 </table>
