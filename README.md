@@ -40,7 +40,7 @@
 
 ## My Tech Stack
 <p>
-  <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
