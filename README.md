@@ -1,7 +1,7 @@
 ## Contact me
 <p>
   <a href="https://github.com/orbulant" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tankashing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tankashing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=flat" /></a>
 </p>
 
 
