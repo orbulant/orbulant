@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/orbulant/stock-screener"><b>Stock Screener</b></a></td>
-    <td>A REST API written in Go that processes data from the NYSE complete with screening support.</td>
+    <td> (WIP) A complete backend to screen stocks in the Malaysian ACE and Bursa market.</td>
     <td><img alt="Stock Screener Stars" src="https://img.shields.io/github/stars/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td><img alt="Stock Screener Forks" src="https://img.shields.io/github/forks/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
     <td><img alt="Stock Screener Issues" src="https://img.shields.io/github/issues/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
