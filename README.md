@@ -29,15 +29,6 @@
     <td><img alt="Blinds Downloads" src="https://img.shields.io/visual-studio-marketplace/d/tankashing.blinds-theme"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/orbulant/stock-screener"><b>Stock Screener</b></a></td>
-    <td> (WIP) A complete backend to screen stocks in the Malaysian ACE and Bursa market.</td>
-    <td><img alt="Stock Screener Stars" src="https://img.shields.io/github/stars/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Stock Screener Forks" src="https://img.shields.io/github/forks/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Stock Screener Issues" src="https://img.shields.io/github/issues/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td><img alt="Stock Screener Pull Requests" src="https://img.shields.io/github/issues-pr/orbulant/stock-screener?style=flat&labelColor=343b41"/></td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/orbulant/random-user-agent"><b>Random User Agent generator</b></a></td>
     <td>A Go package that generates randomised valid user agent strings for bypassing APIs that block requests with the same user agent.</td>
     <td><img alt="Random User Agent Stars" src="https://img.shields.io/github/stars/orbulant/random-user-agent?style=flat&labelColor=343b41"/></td>
